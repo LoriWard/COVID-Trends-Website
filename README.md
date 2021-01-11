@@ -2,7 +2,7 @@
 
 
 
-Group project webpage can be viewed via this link: https://project3-dashboard.herokuapp.com/index.html
+## Group project webpage can be viewed via this link: https://project3-dashboard.herokuapp.com/index.html
 
 COVID-Trends Group Project / George Washington University Data Analysis Boot Camp 2020
 
@@ -23,20 +23,17 @@ Google presented its COVID-19 Community Mobility Reports  (https://www.google.co
 ##### Workplaces:  Mobility trends for places of work. 
 ##### Residential: Mobility trends for places of residence. 
 
-## Trump Tweets
 
-What was the President of the United States response to the pandemic? Trump + Twitter, what a combination! He is likely the only President in the world that uses Twitter without a team of people managing the account for him. Select the date and see the tweet!
-
-## COVID Cases & Deaths
+#### COVID Cases & Deaths
 The New York Times released a series of data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. Users can view the data to compare US states cases and deaths over time.
 
-## Pet Adoption & Intake During COVID
+#### Pet Adoption & Intake During COVID
 As Covid-19 changes our world and our daily habits, pets in the United States continue to be born, surrendered to shelters, and adopted into loving homes.  The charts represent data from 1200 animal welfare organizations around the country and compare weekly data from 2019 and 2020
 
-### Credits
+#### Credits
 All data, available for public use, is sourced from Google Community Mobility Reports, The Trump Archive and The New York Times. This project does not claim any ownership over the data, and is not reponsible for guaranteeing accuracy of the data.
 
-### Website Images
+#### Website Images
 * Home Page: Blue Gradient Color Corona Virus Creative Background: Background Photos from  <a href="https://pngtree.com/free-backgrounds">pngtree.com</a>
 * Google Page: Photo by Ishan @seefromthesky on Unsplash
 * Trump Tweets: Twitter Image sourced from the dailydot.com
