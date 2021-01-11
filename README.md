@@ -1,36 +1,16 @@
 
-### Published Page on Github:
 
 
-### Deployed dashboard to Heroku. Page can be viewed via this link: https://project3-dashboard.herokuapp.com/index.html
 
-# COVID-Trends
+Group project webpage can be viewed via this link: https://project3-dashboard.herokuapp.com/index.html
 
-### Project Contributors: Lisa Harrison | Stojancho Micov | Lori Ward | Ingrid Deukou
+COVID-Trends Group Project / George Washington University Data Analysis Boot Camp 2020
 
-#### Data Cleanup:
-* Stojancho Micovs | Lisa Harrison - Google Mobility 
-* Stojancho Micovs - Merged Data 
-* Lisa Harrison - Trump Tweets 
-* Ingrid Deukou - State Covid & Business Revenue 
+Project Contributors: Lisa Harrison | Stojancho Micov | Lori Ward | Ingrid Deukou
 
-#### Plots & Tables
-* Lisa Harrison - Google Mobility, COVID, Trump Tweets
-* Stojancho Micovs - Hexbin Map & Interactive Charts
-* Lori Ward - Pet Adoption
+## Project Overview:
 
-#### Database & Heroku Deployment
-Lisa Harrison | Stojancho Micovs
-
-#### Web Design & Build
-Lisa Harrison
-
-#### Presentation/Write Up
-Lori Ward | Ingrid Deuoke
-
-## Project Overview
-
-In response to tackling the Coronavirus pandemic, countries across the world have implemented a number of different policies, including; 'stay-at-home orders', work place closures (with many employees working from home), school closures (online teaching being adopted by many schools) as well as restrictions on social gatherings, public transportation, and cancellations of large events.  Such measures were taken in order to slow the spread of the virus through limiting public movement and interactions.
+In response to tackling the Coronavirus pandemic, countries across the world have implemented a number of different policies to slow the spread oc COVID-19, including "stay-at-home orders," work place closures, school closures, as well as restrictions on social gatherings, public transportation, and cancellations of large events. Such measures were taken in order to slow the spread of the virus through limiting public movement and interactions.
 
 What impact have these restrictions had on US citizens' movements around the country?
 
@@ -45,11 +25,7 @@ Google presented its COVID-19 Community Mobility Reports  (https://www.google.co
 
 ## Trump Tweets
 
-What was the President of the United States response to the pandemic?
-
-Trump + Twitter, what a combination! He is likely the only President in the world that uses Twitter without a team of people managing the account for him. 
-
-Select the date and see the tweet!
+What was the President of the United States response to the pandemic? Trump + Twitter, what a combination! He is likely the only President in the world that uses Twitter without a team of people managing the account for him. Select the date and see the tweet!
 
 ## COVID Cases & Deaths
 The New York Times released a series of data files with cumulative counts of coronavirus cases in the United States, at the state and county level, over time. Users can view the data to compare US states cases and deaths over time.
